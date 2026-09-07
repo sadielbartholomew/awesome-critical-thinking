@@ -19,17 +19,19 @@ Topics that are covered by critical thinking include:
 
 ### The Resources
 
+**All resources must be open and free for inclusion in this list.**
+
 _Note! This list is under early construction, but contributions and suggestions are welcome in the meantime!_
 
 #### What is Critical Thinking?
 
-* TODO
-* TODO
+* [Stanford Encyclopedia of Philosophy: 'Critical Thinking' entry](https://plato.stanford.edu/entries/critical-thinking) - detailed philosophical overview of the concept of critical thinking including its history, definitions and intellectual standards
 
 #### General Critical Thinking
 
-* TODO
-* TODO
+* [Critical Thinking Web](https://philosophy.hku.hk/think/) - over 100 tutorials organised into learning modules, incuding exercises, on critical thinking
+* [Critical Reasoning for Beginners](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners) - six-part podcast on reasoning and arguments
+* [Fayetteville State University Lectures on Philosophy: Critical Thinking Lectures](https://youtube.com/playlist?list=PL447DFE6900523895&si=_gcIN84jvvWKPV1w) - series of recorded lectures on various critical thinking topics
 
 #### Importance of Critical Thinking
 

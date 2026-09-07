@@ -1,11 +1,14 @@
-# awesome-critical-thinking: curated resources on the practice of critical thinking
+# `awesome-critical-thinking`: curated resources on the practice of critical thinking
 
 Inspired by the [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 ## Scope
 
 **This is a curated list of books, courses, websites, tools, exercises, papers, videos etc. for learning critical thinking skills.
-It focuses on general-purpose critical-thinking skills and practices, rather than on any particular subject matter or viewpoint.**
+It focuses on general-purpose critical thinking skills and practices, rather than on any particular subject matter or viewpoint.
+The overall goal of this list is to help a person (or an AI agent, but human beings are the prime target) to become a better
+critical thinker and apply reasoning and logic better in practice.**
+
 
 Topics that are covered by critical thinking include:
 

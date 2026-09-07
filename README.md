@@ -30,7 +30,7 @@ _Note! This list is under early construction, but contributions and suggestions 
 #### General Critical Thinking
 
 * [Critical Thinking Web](https://philosophy.hku.hk/think/) - over 100 tutorials organised into learning modules, incuding exercises, on critical thinking
-* [Critical Reasoning for Beginners](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners) - six-part podcast on reasoning and arguments
+* [University of Oxford Critical Reasoning for Beginners](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners) - six-part podcast on reasoning and arguments
 * [Fayetteville State University Lectures on Philosophy: Critical Thinking Lectures](https://youtube.com/playlist?list=PL447DFE6900523895&si=_gcIN84jvvWKPV1w) - series of recorded lectures on various critical thinking topics
 
 #### Importance of Critical Thinking
@@ -51,8 +51,8 @@ _Note! This list is under early construction, but contributions and suggestions 
 
 #### Fallacies
 
-* TODO
-* TODO
+* [Irrationally Yours—An Introduction to Logical Fallacies](https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/) - article introducing the concept of logical fallacies and describing 25 common types
+* [Owen Williamson UTEP OpenCourseWare Microsite: Master List of Logical Fallacies](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm) - list defining nearly 150 types and examples of fallacy
 
 #### Biases
 

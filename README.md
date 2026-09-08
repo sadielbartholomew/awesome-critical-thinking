@@ -33,8 +33,6 @@ Hence this list was born.
 
 ## The Resources
 
-**All resources must be open and free for inclusion in this list.**
-
 _Note! This list is under early construction, but contributions and suggestions are welcome in the meantime!_
 
 ### What is Critical Thinking?
@@ -56,7 +54,7 @@ _Note! This list is under early construction, but contributions and suggestions 
 ### Evaluating Evidence and Sources
 
 * TODO
-* TODO
+* [Ben Goldacre, Bad Science](https://www.goodreads.com/book/show/3272165-bad-science) - witty and humorous non-fiction book about evaluating scientific and medical claims, examining misleading claims across alternative medicine, nutrition, cosmetics, pharmaceutical research and science journalism
 
 ### Forming Conclusions and Making Decisions
 
@@ -70,8 +68,10 @@ _Note! This list is under early construction, but contributions and suggestions 
 
 ### Biases
 
-* TODO
-* TODO
+* Statistical biases:
+  * TODO
+* Cognitive biases:
+  * [Daniel Kahneman, Thinking, Fast and Slow](https://www.goodreads.com/en/book/show/11468377-thinking-fast-and-slow) - non-fiction book contrasting intuitive and deliberate thinking, and examining the cognitive biases that can distort judgement and decision-making
 
 ### Assumptions
 

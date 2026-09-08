@@ -88,6 +88,11 @@ _Note! This list is under early construction, but contributions and suggestions 
 * TODO
 * TODO
 
+### Critical Thinking and AI
+
+* [Shae O. Omonijo, Critical Thinking in the Age of AI](https://youtube.com/playlist?list=PLptL8DEX9T78FDEz8CPGmFP9HWxysQpzQ&si=WssA26BbT_pd0JyZ) - video series highlighting the role and importance of critical thinking in an increasingly AI-driven world
+* [Shae O. Omonijo, Critical Thinking 101: Arguments, Premises & Cognitive Biases | Essential Skills for the AI Age](https://plinkhq.com/i/1865503703/e/1000744355109) - foundational podcast episode introducing critical thinking in the context of navigating AI
+
 ### Misc. Critical Thinking
 
 * TODO

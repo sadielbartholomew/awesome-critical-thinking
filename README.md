@@ -17,8 +17,6 @@ Topics that are covered by critical thinking include:
 * identifying assumptions as well as misleading/unsupported claims, and the implications and practical consequences of both;
 * formulating important questions and problems.
 
-### Related Awesome Lists
-
 The closest 'awesome' lists to the topic of critical thinking that are out there appear to be:
 
 * [Awesome Logical Reasoning](https://github.com/csitfun/Awesome-Logical-Reasoning)
@@ -50,11 +48,15 @@ _Note! This list is under early construction, but contributions and suggestions 
 * TODO
 * TODO
 
-
 ### Evaluating Evidence and Sources
 
 * TODO
 * [Ben Goldacre, Bad Science](https://www.goodreads.com/book/show/3272165-bad-science) - witty and humorous non-fiction book about evaluating scientific and medical claims, examining misleading claims across alternative medicine, nutrition, cosmetics, pharmaceutical research and science journalism
+
+### Scientific and Logical Reasoning
+
+* [Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark](https://www.goodreads.com/en/book/show/17349.The_Demon_Haunted_World) - non-fiction book debunking pseudoscience and myths and advocating for the scientific method
+* TODO
 
 ### Forming Conclusions and Making Decisions
 
@@ -72,6 +74,7 @@ _Note! This list is under early construction, but contributions and suggestions 
   * TODO
 * Cognitive biases:
   * [Daniel Kahneman, Thinking, Fast and Slow](https://www.goodreads.com/en/book/show/11468377-thinking-fast-and-slow) - non-fiction book contrasting intuitive and deliberate thinking, and examining the cognitive biases that can distort judgement and decision-making
+  * ['What is cognitive bias?' from The 2026 IBM Guide to AI](https://www.ibm.com/think/topics/cognitive-bias) - chapter introducing cognitive bias by distinguishing it from logical fallacy and summarising why it matters, its history, and some categories
 
 ### Assumptions
 
@@ -79,6 +82,12 @@ _Note! This list is under early construction, but contributions and suggestions 
 * TODO
 
 ### Formulating Questions and Problems
+
+* TODO
+* TODO
+
+
+### Skepticism
 
 * TODO
 * TODO

@@ -42,6 +42,7 @@ _Note! This list is under early construction, but contributions and suggestions 
 * [Critical Thinking Web](https://philosophy.hku.hk/think/) - over 100 tutorials organised into learning modules, incuding exercises, on critical thinking
 * [University of Oxford Critical Reasoning for Beginners](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners) - six-part podcast on reasoning and arguments
 * [Fayetteville State University Lectures on Philosophy: Critical Thinking Lectures](https://youtube.com/playlist?list=PL447DFE6900523895&si=_gcIN84jvvWKPV1w) - series of recorded lectures on various critical thinking topics
+* ['Wireless Philosophy' course, Unit 1: Critical thinking](https://www.khanacademy.org/partner-content/wi-phi) - structured series of open-access instruction videos and accompanying exercises covering three major topics of critical thinking: fundamentals, fallacies and cognitive biases
 
 ### Importance of Critical Thinking
 
@@ -70,6 +71,8 @@ _Note! This list is under early construction, but contributions and suggestions 
 
 ### Biases
 
+* Biases in general:
+  * [Julia Galef, The Scout Mindset: Why Some People See Things Clearly and Others Don't](https://www.goodreads.com/en/book/show/42041926-the-scout-mindset) - practical guide book to overcoming motivated reasoning in favour of an open-minded, truth-seeking approach to beliefs and decisions
 * Statistical biases:
   * TODO
 * Cognitive biases:

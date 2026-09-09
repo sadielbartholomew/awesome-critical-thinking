@@ -81,7 +81,7 @@ _Note! This list is under early construction, but contributions and suggestions 
 
 ### Assumptions
 
-* TODO
+* [Critical Thinking by Tom Chatfield: The Astonishing Importance of Challenging Assumptions](https://youtu.be/JtSyk_dlVw0?si=GX4h448ezQaMs_S1) - short video introducing assumptions and why they can be so dangerous
 * TODO
 
 ### Formulating Questions and Problems
@@ -90,10 +90,10 @@ _Note! This list is under early construction, but contributions and suggestions 
 * TODO
 
 
-### Skepticism
+### Scepticism
 
-* TODO
-* TODO
+* [Big Think with Bill Nye, Derren Brown & more, Skepticism: Why critical thinking makes you smarter](https://www.youtube.com/watch?v=W9CcdjEqUag) - video where some famous scientists and science communicators discuss ways they think scepticism can be a useful tool for learning and growth
+* [Rebekah Higgitt, Skeptics and scepticism]() - article in The Guardian newspaper clarifying the difference between scepticism and contrarianism
 
 ### Critical Thinking In Practice
 

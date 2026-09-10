@@ -1,6 +1,8 @@
-# `awesome-critical-thinking`: curated resources on the practice of critical thinking
+# Awesome Critical Thinking: curated resources on the practice of critical thinking
 
-Inspired by the [Awesome Lists](https://github.com/sindresorhus/awesome).
+Inspired by the [Awesome Lists](https://github.com/sindresorhus/awesome) collection of resources.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Scope
 
@@ -92,6 +94,10 @@ _Note! This list is under early construction, but contributions and suggestions 
 * [Rebekah Higgitt, Skeptics and scepticism]() - article in The Guardian newspaper clarifying the difference between scepticism and contrarianism.
 
 ### Critical Thinking In Practice
+
+* TODO
+
+### Critical Thinking in the Modern Age
 
 * TODO
 

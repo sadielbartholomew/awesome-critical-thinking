@@ -88,6 +88,7 @@ Hence this list was born.
 
 * [Irrationally Yours—An Introduction to Logical Fallacies](https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/) - article introducing the concept of logical fallacies and describing 25 common types.
 * [Owen Williamson UTEP OpenCourseWare Microsite: Master List of Logical Fallacies](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm) - list defining nearly 150 types and examples of fallacy.
+* [Spot the Fallacy](https://spotfallacy.com/) - game, for mobile app but with a free browser round, to practice spotting and naming fallacies in real arguments from news headlines, social posts and everyday debates.
 
 ### Biases
 
@@ -111,7 +112,7 @@ Hence this list was born.
 ### Scepticism
 
 * [Big Think with Bill Nye, Derren Brown & more, Skepticism: Why critical thinking makes you smarter](https://www.youtube.com/watch?v=W9CcdjEqUag) - video where some famous scientists and science communicators discuss ways they think scepticism can be a useful tool for learning and growth.
-* [Rebekah Higgitt, Skeptics and scepticism]() - article in The Guardian newspaper clarifying the difference between scepticism and contrarianism.
+* [Rebekah Higgitt, Skeptics and scepticism](https://www.theguardian.com/science/the-h-word/2012/nov/13/history-science) - article in The Guardian newspaper clarifying the difference between scepticism and contrarianism.
 
 ### Critical Thinking In Practice
 
@@ -125,6 +126,7 @@ Hence this list was born.
 
 * [Shae O. Omonijo, Critical Thinking in the Age of AI](https://youtube.com/playlist?list=PLptL8DEX9T78FDEz8CPGmFP9HWxysQpzQ&si=WssA26BbT_pd0JyZ) - video series highlighting the role and importance of critical thinking in an increasingly AI-driven world.
 * [Shae O. Omonijo, Critical Thinking 101: Arguments, Premises & Cognitive Biases | Essential Skills for the AI Age](https://plinkhq.com/i/1865503703/e/1000744355109) - foundational podcast episode introducing critical thinking in the context of navigating AI.
+* [Sara Kells, Critical thinking has become an AI‑era buzzword. But what does it actually mean, and how do we teach it?](https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363) - article in The Conversation arguing that critical thinking in the AI era should be understood not merely as evaluating evidence and arguments, but as a practiced habit of reflection, judgement and intellectual humility.
 
 ### Misc. Critical Thinking
 

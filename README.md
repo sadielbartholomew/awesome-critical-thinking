@@ -4,13 +4,16 @@ Inspired by the [Awesome Lists](https://github.com/sindresorhus/awesome) collect
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Scope
+> [!IMPORTANT]  
+> This list is under construction so not yet well populated. Contributions are very welcome. Please see the [contribution guidelines](contributing.md) to
+> guide on contributing.
+
+## Background and Scope
 
 **This is a curated list of books, courses, websites, tools, exercises, papers, videos etc. for learning critical thinking skills.
 It focuses on general-purpose critical thinking skills and practices, rather than on any particular subject matter or viewpoint.
 The overall goal of this list is to help a person (or an AI agent, but human beings are the prime target) to become a better
 critical thinker and apply reasoning and logic better in practice.**
-
 
 Topics that are covered by critical thinking include:
 
@@ -29,11 +32,28 @@ The closest 'awesome' lists to the topic of critical thinking that are out there
 though a brief search through these lists has not revealed a decent amount of content on topics related to critical thinking.
 Hence this list was born.
 
-*****
 
-## The Resources
+***
 
-_Note! This list is under early construction, but contributions and suggestions are welcome in the meantime!_
+## Contents
+
+* [What is Critical Thinking?](#what-is-critical-thinking)
+* [General Critical Thinking](#general-critical-thinking)
+* [Importance of Critical Thinking](#importance-of-critical-thinking)
+* [Evaluating Evidence and Sources](#evaluating-evidence-and-sources)
+* [Scientific and Logical Reasoning](#scientific-and-logical-reasoning)
+* [Forming Conclusions and Making Decisions](#forming-conclusions-and-making-decisions)
+* [Fallacies](#fallacies)
+* [Biases](#biases)
+* [Assumptions](#assumptions)
+* [Formulating Questions and Problems](#formulating-questions-and-problems)
+* [Scepticism](#scepticism)
+* [Critical Thinking In Practice](#critical-thinking-in-practice)
+* [Critical Thinking in the Modern Age](#critical-thinking-in-the-modern-age)
+* [Critical Thinking and AI](#critical-thinking-and-ai)
+* [Misc. Critical Thinking](#misc-critical-thinking)
+
+## Resources
 
 ### What is Critical Thinking?
 

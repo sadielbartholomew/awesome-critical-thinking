@@ -118,15 +118,20 @@ Hence this list was born.
 
 * TODO
 
+### Challenges to Critical Thinking
+
+* [Big Think Clips and Jonny Thomson, How power, conformity, and social media erode critical thinking](https://www.youtube.com/watch?v=CI3sV3RrIkQ) - explores how social and media pressures can undermine independent thinking, along with how philosophy can help us resist groupthink and develop better judgement.
+
 ### Critical Thinking in the Modern Age
 
-* TODO
+* [BBC Ideas, Five simple strategies to sharpen your critical thinking](https://www.youtube.com/watch?v=NHjgKe7JMNE) - short animated video made in partnership with The Open University, introducing concrete ways to foster critical thinking in context of the internet age.
 
 ### Critical Thinking and AI
 
 * [Shae O. Omonijo, Critical Thinking in the Age of AI](https://youtube.com/playlist?list=PLptL8DEX9T78FDEz8CPGmFP9HWxysQpzQ&si=WssA26BbT_pd0JyZ) - video series highlighting the role and importance of critical thinking in an increasingly AI-driven world.
 * [Shae O. Omonijo, Critical Thinking 101: Arguments, Premises & Cognitive Biases | Essential Skills for the AI Age](https://plinkhq.com/i/1865503703/e/1000744355109) - foundational podcast episode introducing critical thinking in the context of navigating AI.
 * [Sara Kells, Critical thinking has become an AI‑era buzzword. But what does it actually mean, and how do we teach it?](https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363) - article in The Conversation arguing that critical thinking in the AI era should be understood not merely as evaluating evidence and arguments, but as a practiced habit of reflection, judgement and intellectual humility.
+* [The University of Sheffield University Library, Critical GenAI literacy](https://share.articulate.com/OuKrx53UT0rMoi91XOb9R#/) - tutorial introducing critical thinking for literacy when using Generative AI, exploring its wider impacts and helping learners to use it effectively, ethically and responsibly.
 
 ### Misc. Critical Thinking
 

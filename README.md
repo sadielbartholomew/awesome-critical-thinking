@@ -29,8 +29,8 @@ The closest 'awesome' lists to the topic of critical thinking that are out there
 * [Awesome Philosophy](https://github.com/HussainAther/awesome-philosophy)
 * [Awesome Philosophy Computer Science](https://github.com/glennstreet/awesome-philosophy-compsci)
 
-though a brief search through these lists has not revealed a decent amount of content on topics related to critical thinking.
-Hence this list was born.
+though a brief search through these lists has not revealed a decent amount of content on topics related to critical thinking
+(notably the topic only explicitly appears in the first list and there is only one entry under it). Hence this list was born.
 
 
 ***

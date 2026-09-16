@@ -118,6 +118,11 @@ though a brief search through these lists has not revealed a decent amount of co
 
 * TODO
 
+### Practicing and Evaluating Your Critical Thinking 
+
+* [Watson-Glaser Critical Thinking Appraisal](https://www.talentlens.com/watson-glaser.html) - established assessment of critical-thinking skills including inference, assumption recognition, deduction, interpretation and argument evaluation, that is often used in the recruitment process for the legal profession, as described by Pearson TalentLens, the publisher of the Watson–Glaser, and for which some practice tests can be found online for free.
+* [Bar Course Aptitude Test (BCAT) sample questions walkthrough](https://www.youtube.com/watch?v=Z3J3MdOh3iw) - walks through some sample questions and answers from a discontinued UK assessment of critical thinking and reasoning, testing recognition of assumptions, evaluation of arguments and drawing conclusions, used to assess applicants' aptitude for training to become barristers (specialist lawyers who represent clients in court), for which some mock exams or questions can be found online for free.
+
 ### Challenges to Critical Thinking
 
 * [Big Think Clips and Jonny Thomson, How power, conformity, and social media erode critical thinking](https://www.youtube.com/watch?v=CI3sV3RrIkQ) - explores how social and media pressures can undermine independent thinking, along with how philosophy can help us resist groupthink and develop better judgement.

@@ -72,17 +72,21 @@ though a brief search through these lists has not revealed a decent amount of co
 
 ### Evaluating Evidence and Sources
 
-* TODO
 * [Ben Goldacre, Bad Science](https://www.goodreads.com/book/show/3272165-bad-science) - witty and humorous non-fiction book about evaluating scientific and medical claims, examining misleading claims across alternative medicine, nutrition, cosmetics, pharmaceutical research and science journalism.
 
 ### Scientific and Logical Reasoning
 
 * [Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark](https://www.goodreads.com/en/book/show/17349.The_Demon_Haunted_World) - non-fiction book debunking pseudoscience and myths and advocating for the scientific method.
-* TODO
 
 ### Forming Conclusions and Making Decisions
 
 * TODO
+
+* ### Making and Assessing Arguments
+
+* [The Critical Thinker Academy 2026, What is a Good Argument?](https://criticalthinkeracademy.teachable.com/courses/76303/lectures/1127791) - structured online course with videos, quizzes and notes (where much material including the videos and notes are generally free to view) covering basic concepts in logic and argumentation.
+* [Modepalli Rukmini, Strong and Weak Arguments Explained: Tips and Examples](https://www.ccbp.in/blog/articles/strong-and-weak-arguments) - article summarising the difference between strong and weak arguments, and putting this into the context of building stronger arguments, including a list of statements and arguments about them assessed with explanation as strong or weak.
+* ['philosophami', Critical Thinking: Burden of Proof, Strong Arguments, and How to Criticize](https://wrestling-with-philosophy.com/2013/02/14/critical-thinking-burden-of-proof-strong-arguments-and-how-to-criticize/) - blog post on evaulating the strength of an argument and summarising the concept of 'burden of proof'.
 
 ### Fallacies
 
@@ -122,6 +126,7 @@ though a brief search through these lists has not revealed a decent amount of co
 
 * [Watson-Glaser Critical Thinking Appraisal](https://www.talentlens.com/watson-glaser.html) - established assessment of critical-thinking skills including inference, assumption recognition, deduction, interpretation and argument evaluation, that is often used in the recruitment process for the legal profession, as described by Pearson TalentLens, the publisher of the Watson–Glaser, and for which some practice tests can be found online for free.
 * [Bar Course Aptitude Test (BCAT) sample questions walkthrough](https://www.youtube.com/watch?v=Z3J3MdOh3iw) - walks through some sample questions and answers from a discontinued UK assessment of critical thinking and reasoning, testing recognition of assumptions, evaluation of arguments and drawing conclusions, used to assess applicants' aptitude for training to become barristers (specialist lawyers who represent clients in court), for which some mock exams or questions can be found online for free.
+* [Measuring Critical Thinking Skills with the RED Model](https://doi.org/10.1088/1742-6596/1808/1/012030) - describes evaluating critical thinking skills with the RED Model, a structured and practical framework of "Recognize assumptions, Evaluate arguments, and Draw conclusions" for developing and strengthening critical thinking skills developed by Pearson TalentLens for the Watson–Glaser Critical Thinking Appraisal (see entry above), but which is shown to be useful more generally.
 
 ### Challenges to Critical Thinking
 

@@ -131,6 +131,9 @@ though a brief search through these lists has not revealed a decent amount of co
 ### Challenges to Critical Thinking
 
 * [Big Think Clips and Jonny Thomson, How power, conformity, and social media erode critical thinking](https://www.youtube.com/watch?v=CI3sV3RrIkQ) - explores how social and media pressures can undermine independent thinking, along with how philosophy can help us resist groupthink and develop better judgement.
+* [Jessica Koehler, Conformity: Trapped in the Echo Chamber](https://www.psychologytoday.com/us/blog/beyond-school-walls/202411/trapped-in-the-echo-chamber) - article from a psychology expert exploring how confirmation bias and social conformity create echo chambers, and how seeking alternative perspectives can support more critical thinking.
+* [Steven Sloman and Philip Fernbach, The Knowledge Illusion: Why We Never Think Alone](https://www.goodreads.com/en/book/show/30780235-the-knowledge-illusion) - book that elaborates how our reliance on shared knowledge and other people can create an illusion of understandng, challenging the assumption that we think and reason independently.
+
 
 ### Critical Thinking in the Modern Age
 

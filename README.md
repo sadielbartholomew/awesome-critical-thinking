@@ -49,6 +49,7 @@ though a brief search through these lists has not revealed a decent amount of co
 * [Formulating Questions and Problems](#formulating-questions-and-problems)
 * [Scepticism](#scepticism)
 * [Critical Thinking In Practice](#critical-thinking-in-practice)
+* [Practicing and Evaluating Your Critical Thinking](practicing-and-evaluating-your-critical-thinking)
 * [Critical Thinking in the Modern Age](#critical-thinking-in-the-modern-age)
 * [Critical Thinking and AI](#critical-thinking-and-ai)
 * [Misc. Critical Thinking](#misc-critical-thinking)
@@ -65,6 +66,7 @@ though a brief search through these lists has not revealed a decent amount of co
 * [University of Oxford Critical Reasoning for Beginners](https://podcasts.ox.ac.uk/series/critical-reasoning-beginners) - six-part podcast on reasoning and arguments.
 * [Fayetteville State University Lectures on Philosophy: Critical Thinking Lectures](https://youtube.com/playlist?list=PL447DFE6900523895&si=_gcIN84jvvWKPV1w) - series of recorded lectures on various critical thinking topics.
 * ['Wireless Philosophy' course, Unit 1: Critical thinking](https://www.khanacademy.org/partner-content/wi-phi) - structured series of open-access instruction videos and accompanying exercises covering three major topics of critical thinking: fundamentals, fallacies and cognitive biases.
+* ['Logical and Critical Thinking' course on FutureLearn by The University of Auckland](https://www.futurelearn.com/courses/logical-and-critical-thinking) -  a course split into two halves where the first half explores key concepts in logical and critical thinking and the second applies those concepts to areas such as science, law and morality.
 
 ### Importance of Critical Thinking
 
@@ -127,6 +129,7 @@ though a brief search through these lists has not revealed a decent amount of co
 * [Watson-Glaser Critical Thinking Appraisal](https://www.talentlens.com/watson-glaser.html) - established assessment of critical-thinking skills including inference, assumption recognition, deduction, interpretation and argument evaluation, that is often used in the recruitment process for the legal profession, as described by Pearson TalentLens, the publisher of the Watson–Glaser, and for which some practice tests can be found online for free.
 * [Bar Course Aptitude Test (BCAT) sample questions walkthrough](https://www.youtube.com/watch?v=Z3J3MdOh3iw) - walks through some sample questions and answers from a discontinued UK assessment of critical thinking and reasoning, testing recognition of assumptions, evaluation of arguments and drawing conclusions, used to assess applicants' aptitude for training to become barristers (specialist lawyers who represent clients in court), for which some mock exams or questions can be found online for free.
 * [Measuring Critical Thinking Skills with the RED Model](https://doi.org/10.1088/1742-6596/1808/1/012030) - describes evaluating critical thinking skills with the RED Model, a structured and practical framework of "Recognize assumptions, Evaluate arguments, and Draw conclusions" for developing and strengthening critical thinking skills developed by Pearson TalentLens for the Watson–Glaser Critical Thinking Appraisal (see entry above), but which is shown to be useful more generally.
+* [The Open University, Extending and developing your thinking skills](https://www.open.edu/openlearn/education-development/extending-and-developing-your-thinking-skills/content-section-1) - free introductory course covering thinking dispositions, questioning, structured thinking, analysis, argument and critical thinking through practical exercises.
 
 ### Challenges to Critical Thinking
 

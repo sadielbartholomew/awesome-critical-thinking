@@ -46,7 +46,7 @@ though a brief search through these lists has not revealed a decent amount of co
 * [Fallacies](#fallacies)
 * [Biases](#biases)
 * [Assumptions](#assumptions)
-* [Formulating Questions and Problems](#formulating-questions-and-problems)
+* [Formulating Questions and Identifying Problems](#formulating-questions-and-identifying-problems)
 * [Scepticism](#scepticism)
 * [Critical Thinking In Practice](#critical-thinking-in-practice)
 * [Practicing and Evaluating Your Critical Thinking](practicing-and-evaluating-your-critical-thinking)
@@ -108,12 +108,11 @@ though a brief search through these lists has not revealed a decent amount of co
 ### Assumptions
 
 * [Critical Thinking by Tom Chatfield: The Astonishing Importance of Challenging Assumptions](https://youtu.be/JtSyk_dlVw0?si=GX4h448ezQaMs_S1) - short video introducing assumptions and why they can be so dangerous.
-* TODO
 
-### Formulating Questions and Problems
+### Formulating Questions and Identifying Problems
 
-* TODO
-
+* [Scott Guthrie, How to solve big problems asking one small question](https://sabguthrie.info/how-to-solve-big-problems-asking-one-small-question/) - blog post that explores through the lens of children's questions how categorising questions by their purpose can help break down complex problems and guide more effective thinking and problem solving.
+* [Tarun Kamboj, 48 Questions for Critical Thinking That Change How You See Everything](https://medium.com/write-a-catalyst/48-critical-thinking-questions-c42bc1237f26) - provides a practical set of 48 questions for critical thinking, organised around six categories (who, what, where, when, why and how) to encourage reflection, challenge assumptions and consider evidence, perspectives and consequences.
 
 ### Scepticism
 

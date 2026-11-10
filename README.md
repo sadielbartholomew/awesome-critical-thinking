@@ -151,3 +151,5 @@ though a brief search through these lists has not revealed a decent amount of co
 ### Misc. Critical Thinking
 
 * TODO
+
+- [Hollowvane](https://hollowvane.com/media-literacy/) — plain-language media literacy explainers (rage bait, source amnesia, ethos/pathos/logos).

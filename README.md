@@ -82,13 +82,14 @@ though a brief search through these lists has not revealed a decent amount of co
 
 ### Forming Conclusions and Making Decisions
 
-* TODO
+* [Structured Decision Making: The Steps](https://www.structureddecisionmaking.org/the-steps/) - provides a systematic seven-step framework for making better decisions by defining objectives, developing alternatives, evaluating evidence and consequences, weighing trade-offs, and learning from outcomes.
+* [Barry O'Reilly, Good To Great Decisions](https://barryoreilly.com/explore/blog/good-to-great-decisions/) - blog post summarising above all how keeping a decision diary can improve decision making including how poor critical thinking skills can lead to poor decisions.
 
-* ### Making and Assessing Arguments
+### Making and Assessing Arguments
 
 * [The Critical Thinker Academy 2026, What is a Good Argument?](https://criticalthinkeracademy.teachable.com/courses/76303/lectures/1127791) - structured online course with videos, quizzes and notes (where much material including the videos and notes are generally free to view) covering basic concepts in logic and argumentation.
 * [Modepalli Rukmini, Strong and Weak Arguments Explained: Tips and Examples](https://www.ccbp.in/blog/articles/strong-and-weak-arguments) - article summarising the difference between strong and weak arguments, and putting this into the context of building stronger arguments, including a list of statements and arguments about them assessed with explanation as strong or weak.
-* ['philosophami', Critical Thinking: Burden of Proof, Strong Arguments, and How to Criticize](https://wrestling-with-philosophy.com/2013/02/14/critical-thinking-burden-of-proof-strong-arguments-and-how-to-criticize/) - blog post on evaulating the strength of an argument and summarising the concept of 'burden of proof'.
+* ['philosophami', Critical Thinking: Burden of Proof, Strong Arguments, and How to Criticize](https://wrestling-with-philosophy.com/2013/02/14/critical-thinking-burden-of-proof-strong-arguments-and-how-to-criticize/) - blog post on evaluating the strength of an argument and summarising the concept of 'burden of proof'.
 
 ### Fallacies
 
@@ -134,7 +135,7 @@ though a brief search through these lists has not revealed a decent amount of co
 
 * [Big Think Clips and Jonny Thomson, How power, conformity, and social media erode critical thinking](https://www.youtube.com/watch?v=CI3sV3RrIkQ) - explores how social and media pressures can undermine independent thinking, along with how philosophy can help us resist groupthink and develop better judgement.
 * [Jessica Koehler, Conformity: Trapped in the Echo Chamber](https://www.psychologytoday.com/us/blog/beyond-school-walls/202411/trapped-in-the-echo-chamber) - article from a psychology expert exploring how confirmation bias and social conformity create echo chambers, and how seeking alternative perspectives can support more critical thinking.
-* [Steven Sloman and Philip Fernbach, The Knowledge Illusion: Why We Never Think Alone](https://www.goodreads.com/en/book/show/30780235-the-knowledge-illusion) - book that elaborates how our reliance on shared knowledge and other people can create an illusion of understandng, challenging the assumption that we think and reason independently.
+* [Steven Sloman and Philip Fernbach, The Knowledge Illusion: Why We Never Think Alone](https://www.goodreads.com/en/book/show/30780235-the-knowledge-illusion) - book that elaborates how our reliance on shared knowledge and other people can create an illusion of understanding, challenging the assumption that we think and reason independently.
 
 
 ### Critical Thinking in the Modern Age
